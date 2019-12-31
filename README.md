@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=4VrQZnWODnE&t=213s
 https://github.com/keyhive/build_guides/blob/master/lily58pro.md
 https://github.com/kata0510/Lily58/blob/master/Pro/Doc/buildguide%5Fen.md
 https://docs.qmk.fm/#/newbs_building_firmware
+https://josef-adamcik.cz/electronics/in-search-of-the-best-custom-keyboard-layout.html
 
 
 # Ordered
